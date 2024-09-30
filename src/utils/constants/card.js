@@ -1,0 +1,42 @@
+export const card1 = [
+    {
+        id : 1,
+        bgImage : './Assets/imgs/pop1.webp',
+        title : 'Mix Meshwi Platter',
+        des : 'Lebanese Chicken Meshwi (Double Skewer) | Spicy BBQ Beef (Double Skewer) | Chicken Kafta (Single Skewer) | Mutton Kafta (Single Skewer)',
+        disPrice : 'Rs. 4050',
+        orgPrice : 'Rs. 4500',
+        img1 : './Assets/imgs/pop2.webp',
+        img2 : './Assets/imgs/pop3.webp',
+    },
+    {
+        id : 2,
+        bgImage : './Assets/imgs/pop2.webp',
+        title : 'Mutton Madfoon',
+        des : 'Succulent meat marinated and seasoned in aromatic herbs and spices',
+        disPrice : 'Rs. 2205',
+        orgPrice : 'Rs. 2450',
+        img1 : './Assets/imgs/pop3.webp',
+        img2 : './Assets/imgs/pop4.webp'
+    },
+    {
+        id : 3,
+        bgImage : './Assets/imgs/pop3.webp',
+        title : 'Mutton Madbee',
+        des : 'Spicy charcoal grilled meat marinated in our special blend of zesty spices with topping of our renowned madbee sauce',
+        disPrice : 'Rs. 2430',
+        orgPrice : 'Rs. 2700',
+        img1 : './Assets/imgs/pop1.webp',
+        img2 : './Assets/imgs/pop2.webp',
+    },
+    {
+        id : 4,
+        bgImage : './Assets/imgs/pop4.webp',
+        title : 'Mutton Ribs Mandi',
+        des : 'Specially marinated, glaze textured and slowly cooked Mutton ribs served with rice',
+        disPrice : 'Rs. 3780',
+        orgPrice : 'Rs. 4200',
+        img1 : './Assets/imgs/pop3.webp',
+        img2 : './Assets/imgs/pop2.webp',
+    },
+]
