@@ -1,6 +1,5 @@
 import React from 'react'
 import { images } from '../../utils/constants/images'
-import Card from '../Common/Card/Card';
 
 const PopularItems = () => {
     const {popularItem} = images[1];
@@ -11,7 +10,6 @@ const PopularItems = () => {
             <img className='rounded' src={popularItem} alt="" />
         </div>
       </div>
-      <Card />
     </div>
   )
 }
